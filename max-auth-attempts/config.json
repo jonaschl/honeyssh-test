@@ -1,0 +1,7 @@
+{
+ "port": 22,
+ "host": "127.0.0.1",
+ "username": "root",
+ "max-auth-attempts": 100
+}
+
